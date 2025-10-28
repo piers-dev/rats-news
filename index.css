@@ -1,0 +1,4 @@
+.rat-body {
+    height: calc(100svh);
+    background: linear-gradient(to bottom, red, yellow);
+}
