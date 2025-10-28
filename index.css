@@ -1,0 +1,13 @@
+.rat-title {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    font-weight: 700;
+    font-size: 3rem;
+    color: darkslateblue;
+}
+
+.rat-body {
+    height: calc(100svh);
+    background: linear-gradient(#ff5b49, #468bcc);
+}
